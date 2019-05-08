@@ -1,0 +1,130 @@
+body {
+background-color:lightsteelblue;
+overflow: scroll;
+}
+
+a {
+color: darkolivegreen;
+font-family: Verdana;
+text-decoration:none;
+}
+
+th {
+background-color:#639344;
+height: 50px;
+width: 400px;
+}
+
+th.b{
+border: solid 2px black;
+height: 50px;
+width: 150px;
+background-color:darkolivegreen;
+font-family: Verdana;
+
+}
+
+th.c{
+background-color:lightsteelblue;
+width: 150px;
+}
+
+td {
+font-family: Verdana;
+}
+
+td.d{
+background-color:darkolivegreen;
+border: solid 2px black;
+height: 50px;
+width: 150px;
+font-family: Verdana;
+
+}
+
+.h1 {
+border: solid 3px black;
+}
+
+.h2 {
+border: solid 3px black;
+}
+
+.h3 {
+border: solid 3px black;
+}
+
+.h4 {
+border: solid 3px black;
+}
+
+p {
+font-size: 30px;
+font-family: Verdana;
+color: darkslategray;
+}
+
+p1 {
+position: absolute;
+left:550px;
+top: 40px;
+margin-top: 100px;
+color: black;
+z-index: 2;
+font-size: 30px;
+font-family: Verdana;
+color: darkslategray;
+}
+
+p2 {
+font-family: Verdana;
+color: darkslategray;
+font-size: 15px;
+}
+
+p3 {
+font-family: Verdana;
+color: darkslategray;
+position: fixed;
+bottom: 10px;
+right: 10px;
+}
+
+ul {
+font-family: Verdana;
+color: darkslategray;
+font-size: 15px;
+}
+
+li {
+margin-left: 650px;
+}
+
+img.a {
+
+width: 800px;
+height: 600px;
+
+}
+
+img.b {
+
+width: 700px;
+height: 400px;
+
+}
+
+img.c {
+color: lightsteelblue;
+z-index: 1;
+}
+
+img.d {
+position: relative;
+top: 5px;
+width: 1475px;
+height: 600px;
+z-index: 1;
+border-radius: 50px;
+}
+
